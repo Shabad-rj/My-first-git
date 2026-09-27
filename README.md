@@ -1,2 +1,2 @@
 # My-first-git
-Author - Shabad
+Author - Shabad First project on github
